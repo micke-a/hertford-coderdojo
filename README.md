@@ -25,4 +25,4 @@
 
 - https://microbit.org/
   - [Get started](https://microbit.org/get-started/first-steps/introduction/)
-- [Create project](https://makecode.microbit.org/)
+- [MakeCode Editor - Find or create projects](https://makecode.microbit.org/)
