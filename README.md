@@ -20,6 +20,7 @@
 - https://www.w3schools.com/python/default.asp
 - [Replit - good and advanced browser based code editor](https://replit.com/new/python3)
 - [Bunch of links for beginners](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
 ### Micro:bit
 
