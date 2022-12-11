@@ -22,6 +22,12 @@
 - [Bunch of links for beginners](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
+Creating games in Python using Pygame
+
+- https://www.pygame.org/wiki/GettingStarted
+- Great video turorial series on creating a simple racing game
+  - https://pythonprogramming.net/pygame-python-3-part-1-intro/
+
 ### Micro:bit
 
 - https://microbit.org/
