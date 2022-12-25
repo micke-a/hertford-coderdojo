@@ -37,6 +37,8 @@ A small introduction to how to create websites using HTML.
 Creating games in Python using Pygame
 
 - https://www.pygame.org/wiki/GettingStarted
+- Intro using replit website
+  - https://docs.replit.com/tutorials/building-a-game-with-pygame
 - Great video turorial series on creating a simple racing game
   - https://pythonprogramming.net/pygame-python-3-part-1-intro/
 
