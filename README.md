@@ -1,5 +1,17 @@
 # Hertford - CoderDojo
 
+## What is in this GitHub repository
+
+## python
+
+Collection of Python code to help you get started with the [Python programming language](https://www.python.org/).
+
+Python is a good starting language which can be used for all sorts of fun stuff. This is not a toy language though!
+It is used by every large company in the world (think Netflix, Instgram, Google, Uber, Pintrest and many many more) and is the most popular language for AI and Machine Learning! So without a doubt something worth learning :-)
+
+## first-html-page
+
+A small introduction to how to create websites using HTML.
 
 ## Starter links
 
