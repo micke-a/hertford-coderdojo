@@ -1,5 +1,7 @@
 # Hertford - CoderDojo
 
+Short URL to GitHub: https://tinyurl.com/hertford-dojo
+
 ## What is in this GitHub repository
 
 ## python

@@ -2,11 +2,11 @@ from typing import Union, List
 
 import pygame
 import random
-from pygame.surface import SurfaceType, Surface
+from pygame.surface import Surface
 
-red = (255,0,0)
-green = (0,255,0)
-blue = (0,0,255)
+red = (255, 0, 0)
+green = (0, 255, 0)
+blue = (0, 0, 255)
 black = (0, 0, 0)
 white = (255, 255, 255)
 
@@ -15,20 +15,20 @@ display_height = 800
 exit_game = False
 
 pygame.init()
-surface: Union[Surface, SurfaceType]  = pygame.display.set_mode((display_width, display_height))
+surface: Surface  = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption('Hertford CoderDojo - Shape')
 clock = pygame.time.Clock()
 
 if __name__ == '__main__':
-    while not exit_game:
+    while  exit_game == False:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 exit_game = True
             
-        surface.fill(black)
+        surface.fill((12,135,23))
 
         # See here for more information https://ryanstutorials.net/pygame-tutorial/pygame-shapes.php
-        pygame.draw.rect(surface, green, pygame.Rect(10,10,50,100))
+        pygame.draw.rect(surface, green, pygame.Rect(10,10,100,100))
         pygame.draw.rect(surface=surface, color=red, rect=pygame.Rect(40,40,50,100), width=3)
 
         pygame.draw.circle(surface, blue, (300,300), 50)

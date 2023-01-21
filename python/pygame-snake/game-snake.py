@@ -106,8 +106,8 @@ class Food(GameObject):
         return pygame.Rect(self.x_loc*grid_size_px,self.y_loc*grid_size_px, self.width, self.height)
 
     def move_random(self):
-        self.x_loc = random.randint(0, grid_size_x)
-        self.y_loc = random.randint(0, gird_size_y)
+        self.x_loc = random.randint(0, grid_size_x-1)
+        self.y_loc = random.randint(0, gird_size_y-1)
 
 
 class GameMode:
