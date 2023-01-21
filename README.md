@@ -43,6 +43,8 @@ Creating games in Python using Pygame
   - https://docs.replit.com/tutorials/building-a-game-with-pygame
 - Great video turorial series on creating a simple racing game
   - https://pythonprogramming.net/pygame-python-3-part-1-intro/
+- Interesting looking youtube Playlist with intermediate/advanced pygame game making tutorials
+  - https://www.youtube.com/watch?v=xxRhvyZXd8I&list=PLX5fBCkxJmm1fPSqgn9gyR3qih8yYLvMj
 
 ### Micro:bit
 
